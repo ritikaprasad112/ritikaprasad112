@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm [Ritika Prasad](github.com/ritikaprasad112)
+# 👋 Hey there! I'm [Ritika Kumari](github.com/ritikaprasad112)
 
 I'm a passionate Frontend Developer who loves building clean, creative, and user-centered web experiences.
 
